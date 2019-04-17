@@ -1,4 +1,4 @@
-# [Mlayalam Learning](http://www.malayalamlearning.com)
+# [Malayalam Learning](http://www.malayalamlearning.com)
 Website for Malayalam Learning Community
 
 Notes:
