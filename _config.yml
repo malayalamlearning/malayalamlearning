@@ -21,14 +21,14 @@ minimal_mistakes_skin    : "citadel"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Azure Citadel"
-logo                     : "/images/site/logo.png"
+title                    : "Malayalam Learning"
+logo                     : "/images/site/malayalamlearning-logo.jpg"
 title_separator          : "-"
-name                     : "Microsoft"
-description              : "Azure related training material developed and maintained by the technical field team at Microsoft."
+name                     : "colorvibes"
+description              : "Global Malayalam Education Community"
 url                      : # Left empty so default used
 baseurl                  : # Left empty so default used "/"
-repository               : https://github.com/azurecitadel/azurecitadel.github.io
+repository               : https://github.com/malayalamlearning/malayalamlearning
 teaser                   : "/images/teaser/default.png"
 breadcrumbs              : false  # These do not work with the site structure
 words_per_minute         : 100
@@ -74,7 +74,7 @@ footer:
       url: "/disclaimer"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/azurecitadel/azurecitadel.github.io"
+      url: "https://github.com/malayalamlearning/malayalamlearning"
 
 # Reading Files
 include:
